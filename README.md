@@ -24,7 +24,7 @@ Este proyecto es un sistema de gestión de campeonatos deportivos que permite re
    - Llevar y actualizar la tabla de posiciones del campeonato.
    - Mostrar la tabla de posiciones con los puntos obtenidos por cada equipo.
 
-## Uso del Sistema
+        ## Uso del Sistema
 
 ### Crear un Campeonato
 Registra un campeonato indicando su nombre y fechas de inicio y fin.
@@ -39,5 +39,3 @@ Programa encuentros entre los equipos y registra los resultados de cada encuentr
 La tabla de posiciones se actualiza automáticamente con los puntos obtenidos por los equipos tras cada encuentro y puede ser mostrada en cualquier momento para ver el progreso del campeonato.
 
 ---
-
-Esta descripción proporciona una visión general del sistema, ideal para un README de un repositorio de GitHub.
