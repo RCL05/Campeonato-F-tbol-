@@ -1,4 +1,4 @@
-public class Director {
+public class Director extends Persona {
     private int idDirector;
 
     // Getters y setters
