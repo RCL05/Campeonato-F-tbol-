@@ -1,0 +1,7 @@
+public enum SistemaDeCampeonato {
+    LIGA_SENCILLA,
+    DOBLE_VUELTA,
+    ELIMINACION_DIRECTA,
+    DOBLE_ELIMINACION,
+    LIGA_SZENCILLA2222
+}
