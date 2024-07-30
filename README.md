@@ -6,6 +6,15 @@
 
 https://imgur.com/a/8RfBa7x
 
+# Modificaciones Realizadas:
+Clase Campeonato:
+
+Definí los atributos y añadí listas para Estadisticas, InscripciondelEquipo, InscripcionJugador y Equipo.
+Añadí el atributo calendario para relacionar con la clase Calendario.
+
+Clase Principal Main:
+
+Esta clase para crear y ejecutar instancias de los objetos definidos, registrar empates y mostrar la tabla de posiciones.
 
 Este proyecto es un sistema de gestión de campeonatos deportivos que permite registrar y administrar diferentes aspectos de un campeonato, incluyendo equipos, jugadores, encuentros y resultados. El objetivo es facilitar la organización y seguimiento de campeonatos deportivos.
 
