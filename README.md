@@ -4,6 +4,9 @@
 
 # Sistema de Gestión de Campeonatos Deportivos
 
+https://imgur.com/a/8RfBa7x
+
+
 Este proyecto es un sistema de gestión de campeonatos deportivos que permite registrar y administrar diferentes aspectos de un campeonato, incluyendo equipos, jugadores, encuentros y resultados. El objetivo es facilitar la organización y seguimiento de campeonatos deportivos.
 
 ## Funcionalidades Principales
