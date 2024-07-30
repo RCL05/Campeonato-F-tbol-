@@ -1,4 +1,4 @@
-public class Arbitro {
+public class Arbitro extends Persona {
     private int idArbitro;
 
     public void pitarJuego() {
