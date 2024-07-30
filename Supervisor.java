@@ -1,4 +1,4 @@
-public class Supervisor {
+public class Supervisor extends Persona {
     private int idSupervisor;
 
     public boolean supervisarJuego() {
