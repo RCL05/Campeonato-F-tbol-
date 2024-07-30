@@ -1,4 +1,4 @@
-public class Jugador {
+public class Jugador extends Persona {
     private String categoria;
     private int idJugador;
     private Persona persona;
