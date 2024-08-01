@@ -3,6 +3,10 @@
 ---
 
 # Sistema de Gestión de Campeonatos Deportivos
+DIAGRMA UML
+
+![CampeonatoDeportivo](https://github.com/user-attachments/assets/6b193d5e-53e1-4349-94f8-7534cb3539ab)
+
 
 https://imgur.com/a/8RfBa7x
 
