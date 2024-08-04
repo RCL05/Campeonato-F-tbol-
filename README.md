@@ -8,7 +8,6 @@ DIAGRMA UML
 ![CampeonatoDeportivo](https://github.com/user-attachments/assets/6b193d5e-53e1-4349-94f8-7534cb3539ab)
 
 
-https://imgur.com/a/8RfBa7x
 
 # Modificaciones Realizadas:
 Clase Campeonato:
@@ -42,18 +41,51 @@ Este proyecto es un sistema de gestión de campeonatos deportivos que permite re
    - Llevar y actualizar la tabla de posiciones del campeonato.
    - Mostrar la tabla de posiciones con los puntos obtenidos por cada equipo.
 
-        ## Uso del Sistema
 
-### Crear un Campeonato
-Registra un campeonato indicando su nombre y fechas de inicio y fin.
+# Campeonato de Fútbol
 
-### Registrar Equipos y Jugadores
-Añade equipos al campeonato y registra jugadores para cada equipo, indicando su información personal y categoría.
+Este es un proyecto de gestión de campeonatos de fútbol desarrollado en Java. La aplicación permite crear y gestionar campeonatos de fútbol, incluyendo la administración de equipos, jugadores y árbitros, y la generación de encuentros.
 
-### Programar Encuentros y Registrar Resultados
-Programa encuentros entre los equipos y registra los resultados de cada encuentro, incluyendo empates.
+## Requisitos
 
-### Actualizar y Mostrar la Tabla de Posiciones
-La tabla de posiciones se actualiza automáticamente con los puntos obtenidos por los equipos tras cada encuentro y puede ser mostrada en cualquier momento para ver el progreso del campeonato.
+- JDK 8 o superior
+- IDE compatible con Java (por ejemplo, IntelliJ IDEA, Eclipse)
 
----
+## Instalación
+
+1. Clona el repositorio:
+   ```
+   git clone https://github.com/tu_usuario/tu_repositorio.git
+   ```
+   
+2. Navega al directorio del proyecto:
+   ```
+   cd tu_repositorio
+   ```
+
+3. Compila y ejecuta el proyecto utilizando tu IDE o la línea de comandos.
+
+## Uso
+
+1. **Ejecuta la aplicación**:
+   ```bash
+   java com.mycompany.campeonatofutbol.CampeonatoFutbolGUI
+   ```
+
+2. **Agregar Datos**:
+   - **Datos del Campeonato**: Introduce el nombre del campeonato, fecha de inicio y fecha de fin.
+   - **Datos del Equipo**: Introduce el nombre y color del uniforme del equipo, y presiona "Añadir Equipo".
+   - **Datos del Jugador**: Introduce el nombre del jugador, goles y asistencias, y presiona "Añadir Jugador".
+   - **Datos del Árbitro**: Introduce el nombre del árbitro y el número de licencia, y presiona "Añadir Árbitro".
+
+3. **Generar Encuentros**:
+   - Selecciona dos equipos diferentes de las listas desplegables y presiona "Generar Encuentro".
+
+4. **Generar Campeonato**:
+   - Presiona "Generar Campeonato" para crear el campeonato con los datos ingresados.
+
+
+¡Gracias por utilizar el sistema de gestión de campeonatos de fútbol!
+```
+
+Este archivo `README.md` proporciona una visión general de tu proyecto, instrucciones para la instalación y el uso, y detalles sobre cómo contribuir. Asegúrate de ajustar la URL del repositorio, el correo electrónico y la licencia según corresponda.
