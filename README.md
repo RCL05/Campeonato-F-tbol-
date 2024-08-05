@@ -1,22 +1,29 @@
-Claro, aquí está el README acomodado y estructurado:
 
-```markdown
+
+---
+
 # Sistema de Gestión de Campeonatos Deportivos
+DIAGRMA UML
 
 ![CampeonatoDeportivo](https://github.com/user-attachments/assets/6b193d5e-53e1-4349-94f8-7534cb3539ab)
 
-## Modificaciones Realizadas
 
-### Clase Campeonato:
-- Definí los atributos y añadí listas para `Estadisticas`, `InscripciondelEquipo`, `InscripcionJugador` y `Equipo`.
-- Añadí el atributo `calendario` para relacionar con la clase `Calendario`.
 
-### Clase Principal Main:
-- Esta clase crea y ejecuta instancias de los objetos definidos, registra empates y muestra la tabla de posiciones.
+# Modificaciones Realizadas:
+Clase Campeonato:
+
+Definí los atributos y añadí listas para Estadisticas, InscripciondelEquipo, InscripcionJugador y Equipo.
+Añadí el atributo calendario para relacionar con la clase Calendario.
+
+Clase Principal Main:
+
+Esta clase para crear y ejecutar instancias de los objetos definidos, registrar empates y mostrar la tabla de posiciones.
+
 
 ## Funcionalidades Principales
 
-Este proyecto es un sistema de gestión de campeonatos deportivos desarrollado en Java, que permite registrar y administrar diversos aspectos de un campeonato. Las funcionalidades incluyen:
+Este proyecto es un sistema de gestión de campeonatos deportivos que permite registrar y administrar diferentes aspectos de un campeonato, incluyendo equipos, jugadores, encuentros y resultados. El objetivo es facilitar la organización y seguimiento de campeonatos deportivos.
+
 
 1. **Gestión de Campeonatos**:
    - Crear campeonatos con nombre y fechas de inicio y fin.
@@ -34,6 +41,11 @@ Este proyecto es un sistema de gestión de campeonatos deportivos desarrollado e
    - Llevar y actualizar la tabla de posiciones del campeonato.
    - Mostrar la tabla de posiciones con los puntos obtenidos por cada equipo.
 
+
+# Campeonato de Fútbol
+
+Este es un proyecto de gestión de campeonatos de fútbol desarrollado en Java. La aplicación permite crear y gestionar campeonatos de fútbol, incluyendo la administración de equipos, jugadores y árbitros, y la generación de encuentros.
+
 ## Requisitos
 
 - JDK 8 o superior
@@ -42,12 +54,12 @@ Este proyecto es un sistema de gestión de campeonatos deportivos desarrollado e
 ## Instalación
 
 1. Clona el repositorio:
-   ```bash
+   ```
    git clone https://github.com/tu_usuario/tu_repositorio.git
    ```
    
 2. Navega al directorio del proyecto:
-   ```bash
+   ```
    cd tu_repositorio
    ```
 
@@ -71,19 +83,14 @@ Este proyecto es un sistema de gestión de campeonatos deportivos desarrollado e
 
 4. **Generar Campeonato**:
    - Presiona "Generar Campeonato" para crear el campeonato con los datos ingresados.
+  
+   ---
+![imagen](https://github.com/user-attachments/assets/3808080e-03f9-4dbd-a209-64f386db12cd)
 
-   ![imagen](https://github.com/user-attachments/assets/3808080e-03f9-4dbd-a209-64f386db12cd)
+   ---
 
-### Actualizar y Mostrar la Tabla de Posiciones
-La tabla de posiciones se actualiza automáticamente con los puntos obtenidos por los equipos tras cada encuentro y puede ser mostrada en cualquier momento para ver el progreso del campeonato.
 
-## Contacto
-
-Para más información, puedes contactar al autor a través de [tu correo electrónico](mailto:tu_email@example.com).
-
----
-
-¡Gracias por utilizar el sistema de gestión de campeonatos deportivos!
+¡Gracias por utilizar el sistema de gestión de campeonatos de fútbol!
 ```
 
-Este formato organiza claramente la información sobre las funcionalidades, requisitos, y cómo utilizar el sistema, y también incluye imágenes relevantes y contacto. Ajusta los enlaces y detalles según sea necesario.
+Este archivo `README.md` proporciona una visión general de tu proyecto, instrucciones para la instalación y el uso, y detalles sobre cómo contribuir. 
