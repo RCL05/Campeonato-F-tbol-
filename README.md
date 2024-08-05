@@ -83,6 +83,11 @@ Este es un proyecto de gestión de campeonatos de fútbol desarrollado en Java. 
 
 4. **Generar Campeonato**:
    - Presiona "Generar Campeonato" para crear el campeonato con los datos ingresados.
+  
+   ---
+![imagen](https://github.com/user-attachments/assets/3808080e-03f9-4dbd-a209-64f386db12cd)
+
+   ---
 
 
 ¡Gracias por utilizar el sistema de gestión de campeonatos de fútbol!
