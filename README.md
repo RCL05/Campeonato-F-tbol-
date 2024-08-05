@@ -93,4 +93,4 @@ Este es un proyecto de gestión de campeonatos de fútbol desarrollado en Java. 
 ¡Gracias por utilizar el sistema de gestión de campeonatos de fútbol!
 ```
 
-Este archivo `README.md` proporciona una visión general de tu proyecto, instrucciones para la instalación y el uso, y detalles sobre cómo contribuir. Asegúrate de ajustar la URL del repositorio, el correo electrónico y la licencia según corresponda.
+Este archivo `README.md` proporciona una visión general de tu proyecto, instrucciones para la instalación y el uso, y detalles sobre cómo contribuir. 
