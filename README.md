@@ -3,23 +3,7 @@
 ---
 
 # Sistema de Gestión de Campeonatos Deportivos
-DIAGRMA UML
-
-![CampeonatoDeportivo](https://github.com/user-attachments/assets/6b193d5e-53e1-4349-94f8-7534cb3539ab)
-
-
-
-# Modificaciones Realizadas:
-Clase Campeonato:
-
-Definí los atributos y añadí listas para Estadisticas, InscripciondelEquipo, InscripcionJugador y Equipo.
-Añadí el atributo calendario para relacionar con la clase Calendario.
-
-Clase Principal Main:
-
-Esta clase para crear y ejecutar instancias de los objetos definidos, registrar empates y mostrar la tabla de posiciones.
-
-
+---
 ## Funcionalidades Principales
 
 Este proyecto es un sistema de gestión de campeonatos deportivos que permite registrar y administrar diferentes aspectos de un campeonato, incluyendo equipos, jugadores, encuentros y resultados. El objetivo es facilitar la organización y seguimiento de campeonatos deportivos.
